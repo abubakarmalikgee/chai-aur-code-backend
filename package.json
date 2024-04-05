@@ -1,0 +1,20 @@
+{
+  "name": "chai-aur-code-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "chai",
+    "hello",
+    "backend"
+  ],
+  "author": "Abubakar Malik",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
